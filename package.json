@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brettminnie/express-gallery/issues"
   },
-  "homepage": "https://github.com/brettminnie/express-gallery#readme"
+  "homepage": "https://github.com/brettminnie/express-gallery#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
 }
